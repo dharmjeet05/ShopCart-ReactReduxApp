@@ -1,3 +1,3 @@
 ## Live Preview
 
-[https://tictactoe-dharmjeet.netlify.app/](https://tictactoe-dharmjeet.netlify.app/)
+[https://shopcart-redux.netlify.app/](https://shopcart-redux.netlify.app/)
